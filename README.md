@@ -1,10 +1,10 @@
 - 👋 Hi, I’m @shobanbalaji
 - 👀 I’m interested in Web Development & AI
-- 🌱 I’m currently learning MERN Stack
+- 🌱 I’m currently Learning MERN Stack
 - 💞️ I’m looking to collaborate on Creative People 
-- 📫 How to reach me ,Connect on LinkedIn shobanbalaji V
+- 📫 How to reach me, Connect on LinkedIn shobanbalaji V
 - 😄 Pronouns: shoban
-- ⚡ Fun fact: ...
+- ⚡ Fun fact:HTML is a Programming Language
 
 <!---
 shobanbalaji/shobanbalaji is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
